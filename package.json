@@ -1,10 +1,14 @@
 {
-  "name": "flashcard",
+  "name": "flashnow",
   "version": "1.0.0",
-  "description": "Homework 11",
+  "description": "flashnow",
   "main": "Flashcard.js",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "paddy"
   },
   "repository": {
     "type": "git",
